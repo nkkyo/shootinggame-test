@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 92406c54c6c105844808c035a7c808a0
+timeCreated: 1493107307
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: M08_SUPER MAJOR BROS
+  fontNames:
+  - M08_SUPER MAJOR BROS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
